@@ -1,0 +1,76 @@
+.place{
+    background-image: url("rabstol.jpg");
+    height: 600px;
+    text-align: center;
+    padding-top: 300px;
+    color:black;
+}
+
+.photoshop{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.heading{
+    background-color: #5FC18B;
+    text-align: center;
+    padding-bottom: 100px;
+    padding-top: 50px;
+}
+
+.heading2{
+    background-color: #44A36F;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+button{
+    color: white;
+    background-color: #44A36F;
+    border: 2px solid white;
+    padding: 7px 10px 7px 10px;
+    border-radius: 10%;
+}
+
+.div{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    width: 900px;
+}
+
+.p{
+    width: 400px;
+}
+
+.div2{
+    width: 200px;
+    margin-left: 50px;
+}
+
+.p1{
+    width: 400px;
+    padding-left: 400px;
+}
+
+.img{
+    padding-left: 50px;
+}
+
+.div3{
+    background-image: url("orig.png");
+    padding: 200px ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 500px;
+}
+
+.input{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
